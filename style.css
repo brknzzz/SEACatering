@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    font-family: "Lexend";
+    font-weight: 700;
+}
+
+@media (max-width: 767px) {
+        .title {
+            color: red;
+        }
+    }
